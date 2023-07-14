@@ -14,8 +14,7 @@ public class Conversor {
 		Object [] menuI ={
 				"Conversor de monedas",
 			    "Conversor de temperatura",
-			    "Conversor de longitudes",
-			    "Conversor de volumen"
+			    "Conversor de longitudes"
 		}; 
 	
 		try {
