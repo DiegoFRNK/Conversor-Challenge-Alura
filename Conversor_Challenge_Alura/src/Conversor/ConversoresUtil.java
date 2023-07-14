@@ -217,13 +217,13 @@ public class ConversoresUtil {
 			if(this.Long1<Long2) {
 				Resultado=(Valor*(Math.pow(10, (Long2-Long1))));
 				System.out.println(String.format("%.10f", Resultado));
-				JOptionPane.showMessageDialog(null, Valor+" "+Nlong1.toLowerCase()+" equivalen a "+String.format("%.10f", Resultado)+" "+Nlong2.toLowerCase(), 
+				JOptionPane.showMessageDialog(null, Valor+" "+Nlong1.toLowerCase()+" equivalen a "+(double)Math.round(Resultado*1000000d)/100000++" "+Nlong2.toLowerCase(), 
 						ConversorSelecionado, JOptionPane.INFORMATION_MESSAGE);
 				
 			}else if (Long1>Long2) {
 				Resultado=(Valor/(Math.pow(10, (Long1-Long2))));
 				System.out.println(String.format("%.10f", Resultado));
-				JOptionPane.showMessageDialog(null, Valor+" "+Nlong1.toLowerCase()+" equivalen a "+String.format("%.10f", Resultado)+" "+Nlong2.toLowerCase(), 
+				JOptionPane.showMessageDialog(null, Valor+" "+Nlong1.toLowerCase()+" equivalen a "+(double)Math.round(Resultado*1000000d)/100000++" "+Nlong2.toLowerCase(), 
 						ConversorSelecionado, JOptionPane.INFORMATION_MESSAGE);
 			}
 		} 
