@@ -1,6 +1,6 @@
 
  <h1 align="center">
-  <p align="center"> Conversor - Challenge Alura </p>
+  <p align="center"> Conversor - Challenge ONE Back End - Java </p>
  </h1> 
 
 
@@ -8,6 +8,7 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 
 ## Descripción
+---
 
 Conversor creado en JAVA que permite elegir entre tres conversores: de Divisas, de Temperaturas y de Longitudes. Todo se muestra en una interfaz gráfica (JOptionPane). Las listas de opciones se muestran enlistadas. 
 
@@ -18,6 +19,7 @@ Conversor creado en JAVA que permite elegir entre tres conversores: de Divisas, 
 
     
 ## Funciones
+---
 
 ![image](https://github.com/DiegoFRNK/Conversor-Challenge-Alura/assets/75233594/68afd77c-9aaf-493f-82fc-3e41cc65481a) ![image](https://github.com/DiegoFRNK/Conversor-Challenge-Alura/assets/75233594/f862172e-0438-405a-ad8a-f69817380994)
  
@@ -42,7 +44,11 @@ El conversor de longitudes solicitará primero el tipo de longitud que se conver
 ![image](https://github.com/DiegoFRNK/Conversor-Challenge-Alura/assets/75233594/a1e57c91-8178-4080-9f04-7ff5cd899e1e) ![image](https://github.com/DiegoFRNK/Conversor-Challenge-Alura/assets/75233594/cf20b1bf-0d0f-466a-a9d0-d517b1dd4a0b)
 ![image](https://github.com/DiegoFRNK/Conversor-Challenge-Alura/assets/75233594/fe5faa6a-12d1-43b4-86ad-f9e0dd7233df) ![image](https://github.com/DiegoFRNK/Conversor-Challenge-Alura/assets/75233594/d74590d8-5d76-41b4-ba6d-401fd65192e9)
 
+## Autor
+---
+Diego Francisco Romero Nasario
 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-francisco-romero-nasario/)
 
 
 
