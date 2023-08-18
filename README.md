@@ -12,7 +12,7 @@
 
 Conversor creado en JAVA que permite elegir entre tres conversores: de Divisas, de Temperaturas y de Longitudes. Todo se muestra en una interfaz gráfica (JOptionPane). Las listas de opciones se muestran enlistadas. 
 
-### Tecnologias
+### tecnologías
 ---
  
  - Java ☕ 
